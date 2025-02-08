@@ -2,12 +2,12 @@
 <img src="img/helloworld.gif" alt="Hello" align="center">
 </div>
 
-<h3 align="center">
+<h2 align="center">
 Welcome to my GitHub profile!!
-</h3>
+</h2>
 
 <div align="center">
-<img src="img/virus.gif" alt="Fan" align="center">
+    <img src="img/virus.gif" alt="Fan" width="180" height="150" align="center">
 </div>
 
 <hr>
