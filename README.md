@@ -7,7 +7,7 @@ Welcome to my GitHub profile!!
 </h2>
 
 <div align="center">
-    <img src="img/virus.gif" alt="Fan" width="180" height="150" align="center">
+    <img src="img/virus.gif" alt="Fan" width="250" height="150" align="center">
 </div>
 
 <h3 align="center">
