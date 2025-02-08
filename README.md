@@ -3,11 +3,10 @@
 </div>
 
 <div style="display: flex; align-items: center;">
-    <div style="margin-right: 20px;">
-        <img src="img/virus.gif" alt="Fan" width="250" height="150">
-    </div>
-    <h1>Welcome to my GitHub profile!!</h1>
+    <img src="img/virus.gif" alt="Fan" width="250" height="150" style="margin-right: 20px;">
+    <h1 style="margin: 0;">Welcome to my GitHub profile!!</h1>
 </div>
+
     
 <h3 align="center">
 About me
