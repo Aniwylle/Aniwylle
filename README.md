@@ -2,7 +2,6 @@
 <img src="img/helloworld.gif" alt="Hello" width="300" height="200" align="center">
 </div>
 
-<table>
     <tr>
         <td>
             <div align="left">
@@ -13,8 +12,7 @@
             <h1 align="left">Welcome to my GitHub profile!!</h1>
         </td>
     </tr>
-</table>
-
+    
 <h3 align="center">
 About me
 </h3>
