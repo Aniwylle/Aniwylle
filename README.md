@@ -4,7 +4,7 @@
 
 <div style="display: flex; align-items: center;">
     <div style="margin-right: 20px;">
-        <img src="img/virus.gif" alt="Fan" width="350" height="150">
+        <img src="img/virus.gif" alt="Fan" width="250" height="150">
     </div>
     <h1>Welcome to my GitHub profile!!</h1>
 </div>
