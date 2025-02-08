@@ -9,7 +9,6 @@
     <h1>Welcome to my GitHub profile!!</h1>
 </div>
 
-<hr>
 
 <h3 align="center">
 About me
