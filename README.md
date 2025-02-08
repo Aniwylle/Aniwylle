@@ -2,9 +2,9 @@
 <img src="img/helloworld.gif" alt="Hello" width="300" height="200" align="center">
 </div>
 
-<h2 align="center">
+<h1 align="center">
 Welcome to my GitHub profile!!
-</h2>
+</h1>
 
 <div align="center">
     <img src="img/virus.gif" alt="Fan" width="180" height="150" align="center">
