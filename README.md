@@ -4,10 +4,7 @@
 
 <h3 align="center">
 Welcome to my GitHub profile!!
-
 </h3>
-
-
 
 <div align="center">
 <img src="img/virus.gif" alt="Fan" align="center">
@@ -53,7 +50,6 @@ I'm Diana. I'm an IT student specializing in programming at the ITHUB SPB Colleg
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white" width="100" height="25" />
 </p>
 
-
 <h3 align="center">
 🗡️ My achievements on codewars:
 </h3>
@@ -75,7 +71,6 @@ If you want to support me:
         <img src="img/mine.gif" alt="Buy Me A Coffee" width="150">
     </a>
 </div>
-
 
 <div align="center">
 <img src="img/planet.gif" alt="bye" align="center">
