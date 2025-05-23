@@ -68,8 +68,6 @@ If you want to support me:
     <a href="https://boosty.to/aniwylle" target="_blank">
         <img src="img/mine.gif" alt="Buy Me A Coffee" width="150">
     </a>
-</div>
-
-<div align="center">
-<img src="img/planet.gif" alt="bye" align="center">
+    <h4> tap here ↑</h4>
+    <img src="img/planet.gif" alt="bye" align="center">
 </div>
