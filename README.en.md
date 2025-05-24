@@ -6,6 +6,10 @@
 Welcome to my GitHub profile!!
 </h2>
 
+<p align="center">
+  <a href="README.en.md">English Version</a> | <strong>Russian Version</strong>
+</p>
+
 <div align="center">
     <img src="img/virus.gif" alt="Fan" width="250" height="150" align="center">
 </div>
@@ -15,8 +19,7 @@ About me
 </h3>
 
 <div align="center">
-I'm <a href="https://aniwylle.github.io/newportfolio/" target="_blank"> Diana</a>. I'm an IT student specializing in programming at the <a href="https://spb.ithub.ru/" target="_blank">ITHUB SPB College<a/>. I have been studying programming for three years.
-</div>
+I'm <a href="https://aniwylle.github.io/newportfolio/" target="_blank"> Diana</a>. I'm an IT student specializing in programming at the <a href="https://spb.ithub.ru/" target="_blank">ITHUB SPB College<a/>. I have been studying programming for three years. I want to become a pro in minecraft and in gamedev</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Age-20-%236A0D91?style=flat-square" alt="Age">
