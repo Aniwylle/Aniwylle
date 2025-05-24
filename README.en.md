@@ -7,7 +7,7 @@ Welcome to my GitHub profile!!
 </h2>
 
 <p align="center">
-  <a href="README.en.md">English Version</a> | <strong>Russian Version</strong>
+  <strong>English Version</strong> | <a href="README.md">Russian Version</a>
 </p>
 
 <div align="center">
