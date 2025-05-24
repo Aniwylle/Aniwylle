@@ -15,7 +15,7 @@ About me
 </h3>
 
 <div align="center">
-I'm <a href="https://aniwylle.github.io/newportfolio/" target="_blank"> Diana</a>. I'm an IT student specializing in programming at the ITHUB SPB College. I have been studying programming for three years.
+I'm <a href="https://aniwylle.github.io/newportfolio/" target="_blank"> Diana</a>. I'm an IT student specializing in programming at the <a href="https://spb.ithub.ru/" target="_blank">ITHUB SPB College<a/>. I have been studying programming for three years.
 </div>
 
 <p align="center">
