@@ -22,7 +22,7 @@ About me
 I'm <a href="https://aniwylle.github.io/newportfolio/" target="_blank"> Diana</a>. I'm an IT student specializing in programming at the <a href="https://spb.ithub.ru/" target="_blank">ITHUB SPB College<a/>. I have been studying programming for three years. I want to become a pro in minecraft and in gamedev</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-20-%236A0D91?style=flat-square" alt="Age">
+  <img src="https://img.shields.io/badge/Age-21-%236A0D91?style=flat-square" alt="Age">
   <img src="https://img.shields.io/badge/Location-Saint%20Petersburg-%236A0D91?style=flat-square" alt="Location">
   <img src="https://img.shields.io/badge/Languages-Russian%2C%20English-%236A0D91?style=flat-square" alt="Languages">
   <img src="https://img.shields.io/badge/Status-Student-%236A0D91?style=flat-square" alt="Status">
